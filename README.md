@@ -1,6 +1,6 @@
 ## Info
 
-Hi there, I'm Kalvis a developer and robotics enthusiast. I am the co-founder of a tech start-up [/KALMARS/](https://kalmars.lv/).
+Hi there, I'm Kalvis a developer and robotics enthusiast. I am the co-founder of a Latvian tech start-up [/KALMARS/](https://kalmars.lv/).
 
 - :computer: Our company currently working with 🐼 [Sneakypeer](https://sneakypeer.com/) and other fun projects.
 - :school: I'm currently learning : PWA, Vue.js, Kubernetes.
@@ -10,7 +10,7 @@ Hi there, I'm Kalvis a developer and robotics enthusiast. I am the co-founder of
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Kalvisan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kalvis-ko%C4%BCes%C5%86ikovs-45264785/)
-[![Email](https://img.shields.io/badge/Email-kalvis%40kalmars.lv-blue)](mailto:kalvis@kalmars.lv)
+[![Email](https://img.shields.io/badge/-Email-lightgrey?style=for-the-badge&logo=Email&logoColor=white)](mailto:kalvis@kalmars.lv)
 
 ## Skills
 
