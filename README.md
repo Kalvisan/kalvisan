@@ -42,6 +42,7 @@ hardware  ·  Arduino   NodeMCU   PCB   sensors   HomeAssistant
 ```text
 site     ·  https://www.kalvisan.lv
 writing  ·  https://medium.com/@kalvis.kolesnikovs
+gitlab   ·  https://gitlab.com/kalvis2
 ```
 
-[**Website**](https://www.kalvisan.lv) &nbsp;·&nbsp; [**Medium**](https://medium.com/@kalvis.kolesnikovs) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/kalvis-ko%C4%BCes%C5%86ikovs-45264785/)
+[**Website**](https://www.kalvisan.lv) &nbsp;·&nbsp; [**GitLab**](https://gitlab.com/kalvis2) &nbsp;·&nbsp; [**Medium**](https://medium.com/@kalvis.kolesnikovs) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/kalvis-ko%C4%BCes%C5%86ikovs-45264785/)
