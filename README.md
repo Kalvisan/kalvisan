@@ -12,7 +12,7 @@
 ```yaml
 who:      Solution architect, co-founder, full-stack developer
 focus:    Applied AI and robotics, plus the systems behind real products
-location: Remote. Based in Riga, Latvia
+location: Riga, Latvia
 status:   Open to new opportunities
 ```
 
